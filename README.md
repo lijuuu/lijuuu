@@ -1,18 +1,9 @@
-![snake gif](https://github.com/liju-github/liju-github/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/lijuuu/lijuuu/blob/output/github-snake-dark.svg)
 
 # Hello World! 👋 
 
 Just another curious dev who breaks stuff to learn how they work 🔨
 (Don't worry, I usually fix them... eventually 😅)
-
-## 🛠️ Playing With
-```
-Primary: Go (Gin) + MySQL/MongoDB + React (shadcn/ui is my new toy!) 🚀
-Architecture: MVC, Clean, Microservices 
-DevOps: CI/CD, Docker and K8s 
-OS: Linux
-Distro: Fedora
-```
 
 ## 🌱 Currently
 - Learning everything that catches my eye
