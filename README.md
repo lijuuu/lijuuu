@@ -1,16 +1,8 @@
 # liju
 
-sde-1 @aion-intelligence
+sde-1 [@aion-intelligence](https://github.com/aion-intelligence)
 
-building distributed systems, platform tooling, and infrastructure with go.
-
-### focus
-
-* distributed systems
-* platform engineering
-* sre
-* kubernetes
-* cloud infrastructure
+go • distributed systems • platform engineering • sre • cloud infrastructure
 
 ### projects
 
