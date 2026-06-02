@@ -10,6 +10,6 @@ go • distributed systems • platform engineering • sre • cloud infrastruc
 * xcodeengine
 * redisboard
 
-[linkedin](https://linkedin.com/in/liju-thomas) • [github](https://github.com/lijuuu)
+[linkedin]([https://linkedin.com/in/liju-thomas](https://www.linkedin.com/in/liju-thomas-13ba6524b/)) • [personal](https://lijuu.me)
 
 ![snake gif](https://github.com/lijuuu/lijuuu/blob/output/github-snake-dark.svg)
